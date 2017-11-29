@@ -1,0 +1,5 @@
+*.pyc
+instance/
+.idea/**/workspace.xml
+.idea/tasks.xml
+.idea/find.xml
